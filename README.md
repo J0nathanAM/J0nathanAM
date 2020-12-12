@@ -1,5 +1,5 @@
-# My name is Jonathan Alvarez
-### I'm a mobile App developer
+# My name is Jonathan Eduardo Alvarez Maturano
+### I'm a systems engineer passionate about mobile app development.
 
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
